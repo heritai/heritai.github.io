@@ -1,0 +1,19 @@
+---
+---
+@import "minima";  // Or your preferred CSS framework
+
+// Add your custom styles here
+body {
+  font-family: sans-serif;
+}
+
+.site-header {
+  background-color: #f0f0f0;
+  padding: 1rem 0;
+}
+
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}

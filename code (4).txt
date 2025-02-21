@@ -1,0 +1,10 @@
+- title: Automated Legal and Ethical Compliance for Trustworthy AI (PhD Dissertation)
+  description: Developed and tested models of moral reasoning... [rest of the description]
+  technologies: Python, Knowledge Representation, AI Ethics
+  github: [If there's a public repo, add the URL here]
+- title: Research on Legal Norm Compliance in AI (NII Internship)
+  description: Tested conflicting scenarios... [rest of the description]
+  technologies: ASP, Python
+- title:  Anomaly Detection on Textual Data (Telecom Paris Internship)
+  description:  Applied anomaly detection methods... [rest of description]
+  technologies:  Python, Scikit-learn

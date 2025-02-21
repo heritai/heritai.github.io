@@ -1,0 +1,22 @@
+title: Yousef Taheri
+email: ytaheris@gmail.com
+description: "AI/ML Researcher & Developer"
+baseurl: "" # the subpath of your site, e.g., /blog
+url: "https://yousef-taheri.github.io" # the base hostname & protocol for your site, e.g., http://example.com
+github_username: yousef-taheri
+
+# Build settings
+markdown: kramdown
+theme: minima  # Or a different theme
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
