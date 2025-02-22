@@ -6,7 +6,7 @@ title: Home
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/yousef-taheri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yousef-taheri-0403205a/)
-[![Email](https://img.shields.io/badge/Email-ytaheris@gmail.com-green?logo=gmail)](mailto:Noem@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yt@gmail.com-green?logo=gmail)](mailto:Noem@gmail.com)
 
 <!--  Insert Your Photo Here -->
 ![Your Photo](photo.jpg)  <!-- Replace with your image path -->
