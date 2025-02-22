@@ -4,7 +4,7 @@ description: "AI/ML Researcher & Developer"
 baseurl: "" # the subpath of your site, e.g., /blog
 url: "https://yousef-taheri.github.io" # the base hostname & protocol for your site, e.g., http://example.com
 github_username: yousef-taheri
-show_downloads: true
+#show_downloads: true
 google_analytics:
 
 
