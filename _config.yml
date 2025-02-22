@@ -1,12 +1,16 @@
 title: Yousef Taheri
-email: ytaheris@gmail.com
+email: ytahs@gmail.com
 description: "AI/ML Researcher & Developer"
 baseurl: "" # the subpath of your site, e.g., /blog
 url: "https://yousef-taheri.github.io" # the base hostname & protocol for your site, e.g., http://example.com
 github_username: yousef-taheri
+show_downloads: true
+google_analytics:
+
+
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
 theme: jekyll-theme-cayman
 #remote_theme: pages-themes/cayman@v0.2.0
@@ -16,7 +20,6 @@ plugins:
 
 # Exclude from processing.
 exclude:
-  - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor/bundle/
