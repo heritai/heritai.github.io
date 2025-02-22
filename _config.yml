@@ -7,9 +7,10 @@ github_username: yousef-taheri
 
 # Build settings
 markdown: kramdown
-theme: minima  # Or a different theme
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+ 
 
 # Exclude from processing.
 exclude:
