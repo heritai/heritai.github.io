@@ -101,10 +101,11 @@ Beyond my professional pursuits, I am passionate about:
 
 I am always open to discussing new opportunities, collaborations, or simply chatting about the latest advancements in AI. Feel free to reach out!
 
-*   **Email:** [ytaheris@gmail.com](mailto:ytaheris@gmail.com)
+
 *   **GitHub:** [github.com/yousef-taheri](https://github.com/yousef-taheri)
 *   **LinkedIn:** [linkedin.com/in/yousef-taheri-0403205a/](https://www.linkedin.com/in/yousef-taheri-0403205a/)
 
 ---
 
 This `README.md` provides a comprehensive overview of my skills, experience, and interests.  I hope it sparks your interest!
+*   **Email:** [ytaheris@gmail.com](mailto:ytaheris@gmail.com)
