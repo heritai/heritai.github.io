@@ -34,7 +34,7 @@ Machine Learning, Deep Learning, Reinforcement Learning, Generative AI, LLMs, Da
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 ![Prolog](https://img.shields.io/badge/Prolog-blue?style=for-the-badge)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-007ACC?style=for-the-badge&logo=visual-basic&logoColor=white)
 
@@ -45,18 +45,22 @@ Machine Learning, Deep Learning, Reinforcement Learning, Generative AI, LLMs, Da
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E37726?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 ![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3498DB?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-3498DB?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-3498DB?style=for-the-badge)  <!-- Replace with your actual color code -->
+![LangChain](https://img.shields.io/badge/LangChain-3498DB?logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-3498DB?logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-3498DB?logoColor=white)  
+![Gym](https://img.shields.io/badge/Gym-3498DB?logoColor=white)
 
-Gym,  Answer Set Programming
+
 
 ### Databases
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-Neo4j, Spark SQL
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
+![Spark](https://img.shields.io/badge/SparkSQL-3498DB?logoColor=white)
+
+
 
 ### Software Proficiency
 
