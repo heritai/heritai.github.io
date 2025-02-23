@@ -10,7 +10,7 @@ title: Home
 
 
 <!--  Insert Your Photo Here -->
-![Your Photo](photo.jpg){ style="display: block; margin: 0 auto" }  <!-- Replace with your image path -->
+![Your Photo](photo.jpg) <!-- Replace with your image path -->
 
 **Passionate about the intersection of Artificial Intelligence, Ethics, and Law.**  Driven by the desire to build AI systems that are not only intelligent but also trustworthy, compliant, and aligned with human values.  I believe in the power of AI to solve complex problems and improve lives, but only when developed responsibly and ethically.
 
