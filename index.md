@@ -15,7 +15,7 @@ current: home
 
 
 ## About Me
-    I am a researcher and developer specializing in artificial intelligence. My work focuses on building models for automated legal and ethical compliance to ensure trustworthiness in AI systems, particularly in sensitive domains like privacy and healthcare. I'm proficient in a range of technologies, from machine learning and deep learning to symbolic AI. I am passionate about contributing to open-source projects and exploring the safety of Generative AI and Large Language Models (LLMs).
+>I am a researcher and developer specializing in artificial intelligence. My work focuses on building models for automated legal and ethical compliance to ensure trustworthiness in AI systems, particularly in sensitive domains like privacy and healthcare. I'm proficient in a range of technologies, from machine learning and deep learning to symbolic AI. I am passionate about contributing to open-source projects and exploring the safety of Generative AI and Large Language Models (LLMs).
      
 
 ## 🛠️ Skills & Technologies
@@ -61,7 +61,6 @@ current: home
     Spss, Minitab, SAS, Knime, Microsoft Office packages, Adobe Photoshop, Illustrator and InDesign
 
 ## 💼 Experience
-
 *   **PhD in AI** 🎓
     *   Sorbonne University, Paris, France
     *   🗓️ APR 2021 - SEP 2024
