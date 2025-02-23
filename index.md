@@ -18,7 +18,7 @@ current: home
 ![Your Photo](photo.jpg) <!-- Replace with your image path -->
 
 **Passionate about the intersection of Artificial Intelligence, Ethics, and Law.**  Driven by the desire to build AI systems that are not only intelligent but also trustworthy, compliant, and aligned with human values.  I believe in the power of AI to solve complex problems and improve lives, but only when developed responsibly and ethically.
-
+---
 ## About Me
 
 I'm a recent PhD graduate from Sorbonne University, specializing in **Automated Legal and Ethical Compliance for Trustworthy AI**. My research focuses on bridging the gap between complex legal and ethical norms and the practical implementation of AI systems. I'm fascinated by the challenge of embedding moral reasoning into AI agents, ensuring they act in accordance with societal values and regulations.
@@ -26,7 +26,7 @@ I'm a recent PhD graduate from Sorbonne University, specializing in **Automated 
 Beyond my research, I'm an avid open-source contributor, constantly exploring new technologies and seeking opportunities to apply my skills to real-world problems. I am excited about the future of Generative AI and Symbolic AI and eager to contribute to advancements in these fields.
 
 **Currently:** Seeking exciting opportunities to apply my expertise in AI/ML, Ethics, and Law in research or industry settings.
-
+---
 ## Research Highlights
 
 My doctoral research explored innovative approaches to model moral reasoning within AI systems, particularly in the sensitive domains of privacy and healthcare. Key aspects of my work include:
