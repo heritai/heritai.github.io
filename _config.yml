@@ -51,7 +51,7 @@ branch: master
 relative_source: ../
 destination: ../gh-pages/
 production_url:  https://yousef-taheri.github.io/
-source_url:  https://github.com/jekyllt/jasper/
+source_url:  https://github.com/yousef-taheri/yousef-taheri.github.io/
 
 exclude:
   - README.md
