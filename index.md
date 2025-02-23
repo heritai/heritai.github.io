@@ -45,8 +45,12 @@ current: home
 
 
 * [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/yousef-taheri)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/yousef-taheri-0403205a/)
-*   Google Scholar: [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Profile-blue?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yousef-taheri-0403205a/?_l=en_US)
+* [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Profile-blue?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)
+* [![X](https://img.shields.io/badge/X-Account-blue?logo=x)](https://x.com/youseftaherii)
+
+
+
 
 ## Publications 📚
 
