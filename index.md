@@ -77,6 +77,8 @@ My doctoral research explored innovative approaches to model moral reasoning wit
 
 **Languages:** English (Fluent), French (Advanced), Persian (Native).
 
+---
+
 ## Publications
 
 A more comprehensive list can be found on my [Google Scholar profile](link to your Google Scholar).
@@ -86,12 +88,16 @@ A more comprehensive list can be found on my [Google Scholar profile](link to yo
 *   Taheri, Y., Bourgne, G. and Ganascia, J.G., "A compliance mechanism for planning in the privacy domain using policies." JSAI International Symposium on Artificial Intelligence, pp. 77-92. Cham: Springer Nature Switzerland, 2021.
 *   Hayashi, H., Mitsikas, T., Taheri, Y., Tsushima, K., Schäfermeier, R., Bourgne, G., Ganascia, J.G., Paschke, A. and Satoh, K.. "Multi-agent online planning architecture for real-time compliance." 17th International Rule Challenge and 7th Doctoral Consortium@ RuleML+ RR 2023.
 
+---
+
 ## Honors and Awards
 
 *   **1st Place**, 2nd Data Mining Cup (MAR 2019): Led a team to develop the top model for airline demand prediction and route planning among 40+ teams.
 *   **2nd Place (Silver Medal)**, 22nd Student Olympiad in Statistics (JUL 2017)
 *   **2nd Place**, University Entrance Exam (Masters) (MAY 2017): Ranked 2nd out of 1011 participants.
 *   **1st Place (Team) & 3rd Place (Solo)**, 17th National Student Competition in Statistics (JUN 2016)
+
+---
 
 ## Interests
 
