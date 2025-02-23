@@ -13,34 +13,28 @@ current: home
 <!--  Insert Your Photo Here -->
 ![Your Photo](/assets/images/portrait.png) <!-- Replace with your image path -->
 
-# Yousef Taheri 👨‍💻
-AI/ML Researcher & Developer |  Focusing on Trustworthy AI
-
-
-
-Driven by a passion for creating ethical and responsible AI, I am a researcher and developer specializing in the intersection of artificial intelligence, law, and ethics. My work focuses on building models for automated legal and ethical compliance to ensure trustworthiness in AI systems, particularly in sensitive domains like privacy and healthcare. I'm proficient in a range of technologies, from machine learning and deep learning to symbolic AI and knowledge representation. I'm also passionate about open-source projects, generative AI and its ethical implications.
 
 ## About Me
-
-I'm driven to build trustworthy AI systems, focusing on the critical intersection of AI, law, and ethics. My expertise lies in developing and testing models that ensure legal and ethical compliance, particularly in sensitive fields such as privacy and healthcare. I am passionate about contributing to open-source projects and exploring the ethical implications of Generative AI and Large Language Models (LLMs).
+    I am a researcher and developer specializing in artificial intelligence. My work focuses on building models for automated legal and ethical compliance to ensure trustworthiness in AI systems, particularly in sensitive domains like privacy and healthcare. I'm proficient in a range of technologies, from machine learning and deep learning to symbolic AI. I am passionate about contributing to open-source projects and exploring the safety of Generative AI and Large Language Models (LLMs).
+     
 
 ## 🛠️ Skills & Technologies
 
-### Core Competencies
+*  **Core Competencies**
 
-Machine Learning, Deep Learning, Reinforcement Learning, Generative AI, LLMs, Data Analysis, Data Visualizations, Symbolic AI, Knowledge Representation, Tutoring and Teaching Assistance.
+    Machine Learning, Deep Learning, Reinforcement Learning, Generative AI, LLMs, Data Analysis, Data Visualizations, Symbolic AI, Knowledge Representation, Tutoring and Teaching Assistance.
 
-### Programming Languages
+* **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 ![Prolog](https://img.shields.io/badge/Prolog-blue?style=for-the-badge)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-007ACC?style=for-the-badge&logo=visual-basic&logoColor=white)
 
-### Python Libraries & Frameworks
+* Python Libraries & Frameworks
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -54,17 +48,17 @@ Machine Learning, Deep Learning, Reinforcement Learning, Generative AI, LLMs, Da
 
 
 
-### Databases
+* **Databases**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
 ![Spark](https://img.shields.io/badge/SparkSQL-3498DB?logoColor=white)
 
 
 
-### Software Proficiency
+* **Software Proficiency**
 
-Spss, Minitab, SAS, Knime, Microsoft Office packages, Adobe Photoshop, Illustrator and InDesign
+    Spss, Minitab, SAS, Knime, Microsoft Office packages, Adobe Photoshop, Illustrator and InDesign
 
 ## 💼 Experience
 
