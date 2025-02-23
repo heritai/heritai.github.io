@@ -11,7 +11,7 @@ current: home
 
 
 <!--  Insert Your Photo Here -->
-![Your Photo](/assets/images/portrait.png) <!-- Replace with your image path -->
+![Your Photo](/assets/images/portrait.png){: width="250" } <!-- Replace with your image path -->
 
 
 ## About Me
