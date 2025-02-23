@@ -43,12 +43,10 @@ current: home
 
 ## Find Me Online 🌐
 
-*   GitHub: [github.com/yousef-taheri](github.com/yousef-taheri)
-*   LinkedIn: [linkedin.com/in/yousef-taheri-0403205a/](linkedin.com/in/yousef-taheri-0403205a/)
-*   Email: [ytaheris@gmail.com](mailto:ytaheris@gmail.com)
-*   Google Scholar: [Link to your Google Scholar page] (Add your google scholar link)
+
 * [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/yousef-taheri)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yousef-taheri-0403205a/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/yousef-taheri-0403205a/)
+*   Google Scholar: [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Profile-blue?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)
 
 ## Publications 📚
 
