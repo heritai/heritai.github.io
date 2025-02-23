@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yousef Taheri
-cover: 'assets/images/cover1.jpg'
+cover: 'assets/images/cover_brain.png'
 class: 'home-template'
 navigation: True
 logo: 'assets/images/logo.png'
