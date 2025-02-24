@@ -16,7 +16,28 @@ current: home
 
 ## About Me
 >I am a researcher and developer specializing in artificial intelligence. My work focuses on building models for automated legal and ethical compliance to ensure trustworthiness in AI systems, particularly in sensitive domains like privacy and healthcare. I'm proficient in a range of technologies, from machine learning and deep learning to symbolic AI. I am passionate about contributing to open-source projects and exploring the safety of Generative AI and Large Language Models (LLMs).
-     
+------------
+
+
+## 💼 Experience
+*   **PhD in AI** 🎓
+    *   Sorbonne University, Paris, France
+    *   🗓️ APR 2021 - SEP 2024
+    *   Dissertation: *Automated Legal and Ethical Compliance for Trustworthy AI*
+        *   Developed and tested models of moral reasoning using knowledge representation in privacy and health care.
+        *   Conducted literature reviews and authored manuscripts in interdisciplinary AI ethics research.
+*   **Research Intern** 🇯🇵
+    *   National Institute of Informatics, Tokyo, Japan
+    *   🗓️ NOV 2023 - FEB 2024
+    *   Research on legal norm compliance in AI.
+    *   Tested conflicting scenarios with legal and ethical norms.
+    *   Case studied a robotic delivery system in healthcare using ASP, Python.
+*   **Internship** 🇫🇷
+    *   Telecom Paris, France
+    *   🗓️ APR 2021 - OCT 2021
+    *   Research on NLP.
+    *   Applied anomaly detection methods on textual data using Python and Scikit-learn.
+------------
 
 ## 🛠️ Skills & Technologies
 
@@ -60,24 +81,6 @@ current: home
 
     Spss, Minitab, SAS, Knime, Microsoft Office packages, Adobe Photoshop, Illustrator and InDesign
 
-## 💼 Experience
-*   **PhD in AI** 🎓
-    *   Sorbonne University, Paris, France
-    *   🗓️ APR 2021 - SEP 2024
-    *   Dissertation: *Automated Legal and Ethical Compliance for Trustworthy AI*
-        *   Developed and tested models of moral reasoning using knowledge representation in privacy and health care.
-        *   Conducted literature reviews and authored manuscripts in interdisciplinary AI ethics research.
-*   **Research Intern** 🇯🇵
-    *   National Institute of Informatics, Tokyo, Japan
-    *   🗓️ NOV 2023 - FEB 2024
-    *   Research on legal norm compliance in AI.
-    *   Tested conflicting scenarios with legal and ethical norms.
-    *   Case studied a robotic delivery system in healthcare using ASP, Python.
-*   **Internship** 🇫🇷
-    *   Telecom Paris, France
-    *   🗓️ APR 2021 - OCT 2021
-    *   Research on NLP.
-    *   Applied anomaly detection methods on textual data using Python and scikit-learn.
 
 ## 📚 Education
 
