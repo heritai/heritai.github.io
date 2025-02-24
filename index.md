@@ -16,8 +16,8 @@ current: home
 
 ## About Me
 >I am a researcher and developer specializing in artificial intelligence. My work focuses on building models for automated legal and ethical compliance to ensure trustworthiness in AI systems, particularly in sensitive domains like privacy and healthcare. I'm proficient in a range of technologies, from machine learning and deep learning to symbolic AI. I am passionate about contributing to open-source projects and exploring the safety of Generative AI and Large Language Models (LLMs).
-------------
 
+<hr style="border: 0.3px solid green; width:40%;"></hr>
 
 ## 💼 Experience
 *   **PhD in AI** 🎓
@@ -37,7 +37,8 @@ current: home
     *   🗓️ APR 2021 - OCT 2021
     *   Research on NLP.
     *   Applied anomaly detection methods on textual data using Python and Scikit-learn.
-------------
+
+<hr style="border: 0.3px solid green; width:40%;"></hr>
 
 ## 🛠️ Skills & Technologies
 
@@ -81,6 +82,7 @@ current: home
 
     Spss, Minitab, SAS, Knime, Microsoft Office packages, Adobe Photoshop, Illustrator and InDesign
 
+<hr style="border: 0.3px solid green; width:40%;"></hr>
 
 ## 📚 Education
 
@@ -97,6 +99,8 @@ current: home
     *   🗓️ SEP 2012 - AUG 2017
     *   Project: Implementation of Sampling methods in Excel VBA
 
+<hr style="border: 0.3px solid green; width:40%;"></hr>
+
 ## 🏆 Honors and Awards
 
 *   **1st Place** - 2nd Data Mining Cup (MAR 2019) 🥇
@@ -104,6 +108,8 @@ current: home
 *   **Ranked 2nd (Silver Medal)** - 22nd student olympiad in statistics (JUL 2017) 🥈
 *   **Ranked 2nd** - University entrance exam (Masters) among 1011 participants (MAY 2017) 🥈
 *   **Ranked 1st (team) & 3rd (solo)** - 17th national student Competition in Statistics (JUN 2016) 🥇🥉
+
+<hr style="border: 0.3px solid green; width:40%;"></hr>
 
 ## 💡 Research & Publications
 
@@ -114,8 +120,9 @@ A full list is available on [Google Scholar](https://scholar.google.com/citation
 *   **Taheri, Y.**, Bourgne, G. and Ganascia, J.G., "A compliance mechanism for planning in the privacy domain using policies." JSAI International Symposium on Artificial Intelligence, pp. 77-92. Cham: Springer Nature Switzerland, 2021.
 *   Hayashi, H., Mitsikas, T., **Taheri, Y.**, Tsushima, K., Schäfermeier, R., Bourgne, G., Ganascia, J.G., Paschke, A. and Satoh, K.. "Multi-agent online planning architecture for real-time compliance. " 17th International Rule Challenge and 7th Doctoral Consortium@ RuleML+ RR 2023.
 
-## 🌐 Links
+<hr style="border: 0.3px solid green; width:40%;"></hr>
 
+## 🌐 Links
 
 * [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yousef-taheri)
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yousef-taheri-0403205a/?_l=en_US)
