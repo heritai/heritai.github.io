@@ -13,14 +13,14 @@ current: home
 <!--  Insert Your Photo Here -->
 ![Your Photo](/assets/images/portrait.png){: width="250" } <!-- Replace with your image path -->
 
+<br>
 
 ## About Me
 >I am a researcher and developer specializing in artificial intelligence. My work focuses on building models for automated legal and ethical compliance to ensure trustworthiness in AI systems, particularly in sensitive domains like privacy and healthcare. I'm proficient in a range of technologies, from machine learning and deep learning to symbolic AI. I am passionate about contributing to open-source projects and exploring the safety of Generative AI and Large Language Models (LLMs).
 
-
+<br>
 
 ## 💼 Experience
-<hr style="border: 1px solid green;">
 
 *   **PhD in AI** 🎓
     *   Sorbonne University, Paris, France
@@ -40,10 +40,10 @@ current: home
     *   Research on NLP.
     *   Applied anomaly detection methods on textual data using Python and Scikit-learn.
 
-
+<br>
 
 ## 🛠️ Skills & Technologies
-<hr style="border: 1px solid yellowgreen;">
+
 
 *  **Core Competencies**
 
@@ -85,7 +85,7 @@ current: home
 
     Spss, Minitab, SAS, Knime, Microsoft Office packages, Adobe Photoshop, Illustrator and InDesign
 
-<hr style="border: 1px solid green;">
+<br>
 
 ## 📚 Education
 
@@ -112,7 +112,7 @@ current: home
 *   **Ranked 2nd** - University entrance exam (Masters) among 1011 participants (MAY 2017) 🥈
 *   **Ranked 1st (team) & 3rd (solo)** - 17th national student Competition in Statistics (JUN 2016) 🥇🥉
 
-<hr style="border: 1px solid green;">
+<br>
 
 ## 💡 Research & Publications
 
@@ -123,13 +123,13 @@ A full list is available on [Google Scholar](https://scholar.google.com/citation
 *   **Taheri, Y.**, Bourgne, G. and Ganascia, J.G., "A compliance mechanism for planning in the privacy domain using policies." JSAI International Symposium on Artificial Intelligence, pp. 77-92. Cham: Springer Nature Switzerland, 2021.
 *   Hayashi, H., Mitsikas, T., **Taheri, Y.**, Tsushima, K., Schäfermeier, R., Bourgne, G., Ganascia, J.G., Paschke, A. and Satoh, K.. "Multi-agent online planning architecture for real-time compliance. " 17th International Rule Challenge and 7th Doctoral Consortium@ RuleML+ RR 2023.
 
-<hr style="border: 1px solid green;">
+<br>
 
 ## 🌐 Links
 
 * [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yousef-taheri)
- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yousef-taheri-0403205a/?_l=en_US)
+* [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yousef-taheri-0403205a/?_l=en_US)
  
 * [![Google Scholar](https://img.shields.io/badge/GoogleScholar-white?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)
- [![X](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/youseftaherii)
+* [![X](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/youseftaherii)
 
