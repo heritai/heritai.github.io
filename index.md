@@ -102,7 +102,7 @@ current: home
     *   🗓️ SEP 2012 - AUG 2017
     *   Project: Implementation of Sampling methods in Excel VBA
 
-<hr style="border: 1px solid green;">
+<br>
 
 ## 🏆 Honors and Awards
 
