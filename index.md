@@ -26,8 +26,8 @@ current: home
     *   Sorbonne University, Paris, France
     *   🗓️ APR 2021 - SEP 2024
     *   Dissertation: *Automated Legal and Ethical Compliance for Trustworthy AI*
-        *   Developed and tested models of moral reasoning using knowledge representation in privacy and health care.
-        *   Conducted literature reviews and authored manuscripts in interdisciplinary AI ethics research.
+    *   Developed and tested models of moral reasoning using knowledge representation in privacy and health care.
+    *   Conducted literature reviews and authored manuscripts in interdisciplinary AI ethics research.
 *   **Research Intern** 🇯🇵
     *   National Institute of Informatics, Tokyo, Japan
     *   🗓️ NOV 2023 - FEB 2024
@@ -107,7 +107,7 @@ current: home
 ## 🏆 Honors and Awards
 
 *   **1st Place** - 2nd Data Mining Cup (MAR 2019) 🥇
-    *   Created the top model for airline demand prediction and route planning (out of 40+ teams).
+    *   Developed the best model for airline demand prediction and route planning (out of 40+ teams).
 *   **Ranked 2nd (Silver Medal)** - 22nd student olympiad in statistics (JUL 2017) 🥈
 *   **Ranked 2nd** - University entrance exam (Masters) among 1011 participants (MAY 2017) 🥈
 *   **Ranked 1st (team) & 3rd (solo)** - 17th national student Competition in Statistics (JUN 2016) 🥇🥉
