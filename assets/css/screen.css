@@ -588,7 +588,6 @@ body.nav-opened .site-wrapper {
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
-    filter: brightness(70%);
 }
 
 .main-header .inner {
@@ -960,7 +959,7 @@ body.nav-opened .nav {
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-family: "Merriweather", sans-serif;
     letter-spacing: 0.01rem;
     color: #803c9d;
     text-shadow: 0 0 2px #fff;
@@ -1794,7 +1793,6 @@ body.page-template .post-title {
     .page-description {
         font-size: 1.8rem;
         line-height: 1.5em;
-        text-shadow: 0 0 2px #fff;
     }
 
     .post {
