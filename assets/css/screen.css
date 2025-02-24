@@ -588,6 +588,7 @@ body.nav-opened .site-wrapper {
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
+    filter: brightness(70%);
 }
 
 .main-header .inner {
@@ -1793,6 +1794,7 @@ body.page-template .post-title {
     .page-description {
         font-size: 1.8rem;
         line-height: 1.5em;
+        text-shadow: 0 0 2px #fff;
     }
 
     .post {
@@ -2038,6 +2040,7 @@ body.page-template .post-title {
 
     .page-description {
         font-size: 1.6rem;
+        text-shadow: 0 0 2px #fff;
     }
 
     h1, h2, h3,
