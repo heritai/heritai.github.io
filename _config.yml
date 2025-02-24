@@ -10,7 +10,7 @@ language: 'en-uk'
 name: 'Yousef Taheri'
 description: "AI/ML Researcher & Developer"
 
-short_url: 'yousef-taheri.github.io/'
+short_url: 'herita.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -50,8 +50,8 @@ repo: yousef
 branch: master
 relative_source: ../
 destination: ../gh-pages/
-production_url:  https://yousef-taheri.github.io/
-source_url:  https://github.com/yousef-taheri/yousef-taheri.github.io/
+production_url:  https://herita.github.io/
+source_url:  https://github.com/yousef-taheri/herita.github.io/
 
 exclude:
   - README.md
