@@ -45,7 +45,7 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: youseftaheri
+username: herita
 repo: yousef
 branch: master
 relative_source: ../
