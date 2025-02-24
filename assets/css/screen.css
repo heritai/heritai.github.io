@@ -950,8 +950,7 @@ body.nav-opened .nav {
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #33124d;
-    text-shadow: 0 0 2px #fff;
+    color: #1f0831;
 }
 
 .page-description {
@@ -961,8 +960,7 @@ body.nav-opened .nav {
     font-weight: 400;
     font-family: "Merriweather", sans-serif;
     letter-spacing: 0.01rem;
-    color: #803c9d;
-    text-shadow: 0 0 2px #fff;
+    color: #49f33a;
 }
 
 .no-cover.main-header {
@@ -2038,7 +2036,6 @@ body.page-template .post-title {
 
     .page-description {
         font-size: 1.6rem;
-        text-shadow: 0 0 2px #fff;
     }
 
     h1, h2, h3,
