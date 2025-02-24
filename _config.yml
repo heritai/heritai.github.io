@@ -10,7 +10,7 @@ language: 'en-uk'
 name: 'Yousef Taheri'
 description: "AI/ML Researcher & Developer"
 
-short_url: 'herita.github.io/'
+short_url: 'heritai.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: herita
+username: heritai
 repo: yousef
 branch: master
 relative_source: ../
 destination: ../gh-pages/
-production_url:  https://herita.github.io/
-source_url:  https://github.com/yousef-taheri/herita.github.io/
+production_url:  https://heritai.github.io/
+source_url:  https://github.com/yousef-taheri/heritai.github.io/
 
 exclude:
   - README.md
