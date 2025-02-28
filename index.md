@@ -133,3 +133,6 @@ A full list is available on [Google Scholar](https://scholar.google.com/citation
 * [![Google Scholar](https://img.shields.io/badge/GoogleScholar-white?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)
 * [![X](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/HeritaMind)
 
+
+
+![Tests](https://github.com/heritai/heritai.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)
