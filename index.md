@@ -84,7 +84,7 @@ current: home
 
 * **Software Proficiency**
 
-    Spss, Minitab, SAS, Knime, Microsoft Office packages, Adobe Photoshop, Illustrator and InDesign
+    Power BI, Spss, Minitab, SAS, Knime, Microsoft Office suit, Adobe suit
 
 <br>
 
@@ -110,7 +110,7 @@ current: home
 *   **1st Place** - 2nd Data Mining Cup (MAR 2019) 🥇
     *   Developed the best model for airline demand prediction and route planning (out of 40+ teams).
 *   **Ranked 2nd (Silver Medal)** - 22nd student olympiad in statistics (JUL 2017) 🥈
-*   **Ranked 2nd** - University entrance exam (Masters) among 1011 participants (MAY 2017) 🥈
+*   **Ranked 2nd** - University entrance exam (Masters) among 1000+ participants (MAY 2017) 🥈
 *   **Ranked 1st (team) & 3rd (solo)** - 17th national student Competition in Statistics (JUN 2016) 🥇🥉
 
 <br>
