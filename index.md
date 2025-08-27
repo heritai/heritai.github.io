@@ -25,21 +25,24 @@ current: home
 
 ### Ingénieur IA/ML
 
-| 📍 **Indépendant, Paris, France** | 🗓️ **février 2025 - en cours** |
-| --- | --- |
+- 📍 **Indépendant, Paris, France** 
+- 🗓️ **février 2025 - en cours** 
+
 - Conception d’un [Assistant multi-agents](https://github.com/heritai/llm-multi-agent-asstant) basé sur LLMs pour l’aide à la conformité réglementaire (LangGraph, RAG, Prompt Engineering)
 - Développement d’un [Outil d’audit](https://github.com/heritai/ml-cloud-audit) de conformité RGPD sur AWS pour pipelines IA/ML (SageMaker, Fairness et Explicabilité)
 
 ### AI Research Engineer
 
-| 📍**National Institute of Informatics, Tokyo, Japon** | 🗓️ **novembre 2023 - février 2024** |
-| --- | --- |
+- 📍**National Institute of Informatics, Tokyo, Japon** 
+- 🗓️ **novembre 2023 - février 2024** 
+  
 - Évaluation qualitative et étude de conflits normatifs dans les systèmes multiagents; appliquée à un système de livraison robotisée
 
 ### Data Scientist
 
-| 📍**DGTeam, Téhéran, Iran** | 🗓️ **février – novembre 2018** |
-| --- | --- |
+- 📍**DGTeam, Téhéran, Iran** 
+- 🗓️ **février – novembre 2018** 
+
 - Analyse des marchés crypto et développement de modèles prédictifs avec Python et R (temps partiel)
 <br>
 
@@ -84,7 +87,7 @@ current: home
 
 * **Software Proficiency**
 
-    Power BI, Spss, Minitab, SAS, Knime, Microsoft Office suit, Adobe suit
+    Tableau, Spss, Minitab, SAS, Knime, Microsoft Office suit, Adobe suite
 
 <br>
 
@@ -92,8 +95,8 @@ current: home
 
 ### Doctorat en IA 
 
-| 📍**LIP6 - Sorbonne Université** | 🗓️ **avril 2021 - octobre 2024** |
-| --- | --- |
+- 📍**LIP6 - Sorbonne Université** 
+- 🗓️ **avril 2021 - octobre 2024** 
 
 * Thèse sur la conformité et l'alignement de l'intelligence artificielle
 * Collaborations internationales et publications scientifiques
@@ -102,22 +105,23 @@ current: home
 
 
 
-| 📍**Sorbonne Université** | 🗓️ **septembre 2019 - octobre 2020** |
-| --- | --- |
+- 📍**Sorbonne Université** 
+- 🗓️ **septembre 2019 - octobre 2020** 
 - Mémoire : Détection d’anomalies dans des données textuelles à Télécom Paris
 
 
 
 ### Master en Statistique
 
-| 📍**Université de Téhéran** | 🗓️ **septembre 2017 - août 2019** |
-| --- | --- |
+- 📍**Université de Téhéran** 
+- 🗓️ **septembre 2017 - août 2019** 
+  
 - Mémoire : Modélisation de données financières avec les modèles de Markov cachés
 
 ### Licence en Statistiques Appliquées
 
-| 📍**Université de Téhéran** | 🗓️ **septembre 2012 - août 2017** |
-| --- | --- |
+- 📍**Université de Téhéran** 
+- 🗓️ **septembre 2012 - août 2017** 
 
 - Projet : Implémentation de méthodes d’échantillonnage en Excel VBA
 
