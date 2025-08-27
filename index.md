@@ -11,36 +11,36 @@ current: home
 
 
 <!--  Insert Your Photo Here -->
-![Your Photo](/assets/images/portrait.png){: width="250" } <!-- Replace with your image path -->
+![Your Photo](/assets/images/image_3.png) <!-- Replace with your image path -->
 
 <br>
 
 ## About Me
->I am a researcher and developer specializing in artificial intelligence. My work focuses on building models for automated legal and **Responsible AI**, **logical modeling**, and **legal compliance mechanisms** for intelligent systems, particularly in sensitive domains like privacy and healthcare. I'm proficient in a range of technologies, from machine learning and deep learning to symbolic AI.
+>Developpeur IA/ML et Data Scientiste avec un doctorat en IA responsable, je transforme des idées complexes en solutions concrètes et responsables. Porté par la rigueur, la curiosité et l’impact, je m’engage dans des projets alliant science des données et innovation.
 
 
 <br>
 
-## 💼 Experience
+## Expériences
 
-*   **PhD in AI** 🎓
-    *   Sorbonne University, Paris, France
-    *   🗓️ APR 2021 - SEP 2024
-    *   Dissertation: *Automated Legal and Ethical Compliance for Trustworthy AI*
-    *   Developed and tested models of moral reasoning using knowledge representation in privacy and health care.
-    *   Conducted literature reviews and authored manuscripts in interdisciplinary AI ethics research.
-*   **Research Intern** 🇯🇵
-    *   National Institute of Informatics, Tokyo, Japan
-    *   🗓️ NOV 2023 - FEB 2024
-    *   Research on legal norm compliance in AI.
-    *   Tested conflicting scenarios with legal and ethical norms.
-    *   Case studied a robotic delivery system in healthcare using ASP, Python.
-*   **Internship** 🇫🇷
-    *   Telecom Paris, France
-    *   🗓️ APR 2021 - OCT 2021
-    *   Research on NLP.
-    *   Applied anomaly detection methods on textual data using Python and Scikit-learn.
+### Ingénieur IA/ML
 
+| 📍 **Indépendant, Paris, France** | 🗓️ **février 2025 - en cours** |
+| --- | --- |
+- Conception d’un [Assistant multi-agents](https://github.com/heritai/llm-multi-agent-asstant) basé sur LLMs pour l’aide à la conformité réglementaire (LangGraph, RAG, Prompt Engineering)
+- Développement d’un [Outil d’audit](https://github.com/heritai/ml-cloud-audit) de conformité RGPD sur AWS pour pipelines IA/ML (SageMaker, Fairness et Explicabilité)
+
+### AI Research Engineer
+
+| 📍**National Institute of Informatics, Tokyo, Japon** | 🗓️ **novembre 2023 - février 2024** |
+| --- | --- |
+- Évaluation qualitative et étude de conflits normatifs dans les systèmes multiagents; appliquée à un système de livraison robotisée
+
+### Data Scientist
+
+| 📍**DGTeam, Téhéran, Iran** | 🗓️ **février – novembre 2018** |
+| --- | --- |
+- Analyse des marchés crypto et développement de modèles prédictifs avec Python et R (temps partiel)
 <br>
 
 ## 🛠️ Skills & Technologies
@@ -48,7 +48,7 @@ current: home
 
 *  **Core Competencies**
 
-    Machine Learning, Deep Learning, Reinforcement Learning, Data Analysis, Data Visualizations, Symbolic AI, Knowledge Representation, Tutoring and Teaching Assistance.
+    Machine Learning, NLP, LLMs, Agentic AI, Deep Learning, Reinforcement Learning, Data Analysis, Data Visualizations, Symbolic AI, Knowledge Representation, Tutoring and Teaching Assistance.
 
 * **Programming Languages**
 
@@ -88,38 +88,58 @@ current: home
 
 <br>
 
-## 📚 Education
+## Education
 
-*   **Master (M2) - Algorithms and Learning**
-    *   Sorbonne University
-    *   🗓️ SEP 2019 - OCT 2020
-    *   Thesis: Anomaly Detection on Textual Data
-*   **Master - Mathematical Statistics**
-    *   University of Tehran
-    *   🗓️ SEP 2017 - SEP 2019
-    *   Thesis: Applying Hidden Markov Models on Financial Data
-*   **Bachelor's - Applied Statistics**
-    *   University of Tehran
-    *   🗓️ SEP 2012 - AUG 2017
-    *   Project: Implementation of Sampling methods in Excel VBA
+### Doctorat en IA 
+
+| 📍**LIP6 - Sorbonne Université** | 🗓️ **avril 2021 - octobre 2024** |
+| --- | --- |
+
+* Thèse sur la conformité et l'alignement de l'intelligence artificielle
+* Collaborations internationales et publications scientifiques
+
+### Master (M2) en Machine Learning
+
+
+
+| 📍**Sorbonne Université** | 🗓️ **septembre 2019 - octobre 2020** |
+| --- | --- |
+- Mémoire : Détection d’anomalies dans des données textuelles à Télécom Paris
+
+
+
+### Master en Statistique
+
+| 📍**Université de Téhéran** | 🗓️ **septembre 2017 - août 2019** |
+| --- | --- |
+- Mémoire : Modélisation de données financières avec les modèles de Markov cachés
+
+### Licence en Statistiques Appliquées
+
+| 📍**Université de Téhéran** | 🗓️ **septembre 2012 - août 2017** |
+| --- | --- |
+
+- Projet : Implémentation de méthodes d’échantillonnage en Excel VBA
+
 
 <br>
 
 ## 🏆 Honors and Awards
 
-*   **1st Place** - 2nd Data Mining Cup (MAR 2019) 🥇
-    *   Developed the best model for airline demand prediction and route planning (out of 40+ teams).
-*   **Ranked 2nd (Silver Medal)** - 22nd student olympiad in statistics (JUL 2017) 🥈
-*   **Ranked 2nd** - University entrance exam (Masters) among 1000+ participants (MAY 2017) 🥈
-*   **Ranked 1st (team) & 3rd (solo)** - 17th national student Competition in Statistics (JUN 2016) 🥇🥉
-
+- **1er prix –** 2e Data Mining Cup, prédiction de la demande aérienne, Université d’Amirkabir, Téhéran, Iran, (2019)
+- **Médaille d’argent** – 22e Olympiade étudiante en statistique, Iran (2017)
+- **2e place** – Concours national d’entrée en Master, Iran, (2017)
+- **1re place (équipe) & 3e place (solo)** – Compétition nationale en statistique, Iran (2016 et 2017)
 <br>
 
-## 💡 Research & Publications
+## 💡 Publications
 
-A full list is available on [Google Scholar](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID) <!-- Replace with your actual Google Scholar ID -->
+  - Taheri, Yousef. **Responsible AI in the Cloud: Automating ML Audits on AWS.** [Medium](https://medium.com/p/responsible-ai-in-the-cloud-automating-ml-audits-on-aws-872b761093cb?source=social.tw), août 2025.
+- **Taheri, Y.** (2024). **Automatisation de la conformité légale et éthique pour une IA de confiance.** Thèse doctorale sous la direction de Jean-Gabriel Ganascia & Gauvain Bourgne ([lien](http://theses.fr/2024SORUS225))
+  
+Peer-reviewed articles (Full list is available on [Google Scholar](https://scholar.google.com/citations?user=IN72HckAAAAJ) ):<!-- Replace with your actual Google Scholar ID -->
 
-*   **Taheri, Y.**, 2024. Modeling automated legal and ethical compliance for trustworthy AI (Doctoral dissertation, Sorbonne Université). https://theses.fr/2024SORUS225
+
 *   **Taheri, Y.**, Bourgne, G. and Ganascia, J.G., "Modelling integration of responsible AI values for ethical decision making." 2nd Workshop on Computational Machine Ethics - KR, 2023.
 *   **Taheri, Y.**, Bourgne, G. and Ganascia, J.G., "A compliance mechanism for planning in the privacy domain using policies." JSAI International Symposium on Artificial Intelligence, pp. 77-92. Cham: Springer Nature Switzerland, 2021.
 *   Hayashi, H., Mitsikas, T., **Taheri, Y.**, Tsushima, K., Schäfermeier, R., Bourgne, G., Ganascia, J.G., Paschke, A. and Satoh, K.. "Multi-agent online planning architecture for real-time compliance. " 17th International Rule Challenge and 7th Doctoral Consortium@ RuleML+ RR 2023.
