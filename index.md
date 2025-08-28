@@ -8,7 +8,7 @@ logo: 'assets/images/logo.png'
 current: home
 ---
 
-
+<iframe src="https://patch-rotate-05c.notion.site/ebd/25c230ad969a801488aae6964dfbfca8" width="100%" height="600" frameborder="0" allowfullscreen />
 
 <!--  Insert Your Photo Here -->
 ![Your Photo](/assets/images/image_3.png) <!-- Replace with your image path -->
