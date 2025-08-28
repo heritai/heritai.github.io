@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6C7BJGKMFT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6C7BJGKMFT');
+</script>
+    <meta charset="UTF-8">
+    <script src="js/visibility.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sakai Masato Database</title>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="icon" href=favicon-32x32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="../pic/apple-touch-icon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/activity.css">
+    <link rel="stylesheet" href="/Navi/navi.css">
+    <script src="/js/darkmode.js"></script>
+    <script src="/Navi/navHighlight.js"></script>
+    <script src="/js/activity.js"></script>
+</head>
+
+<body>
+    <aside class="sidebar">
+        </aside>
+
+    <div class="main-content-wrapper">
+        <div class="main-content">
+            <div class="content-header">
+                <h1 class="title">ACTIVITY</h1>
+                <div class="filter-container">
+                    <div id="filter-row-1">
+                        <div class="filter-item">
+                            <label class="switch-label">映画</label>
+                            <div class="legend-color activity-movie"></div>
+                            <label class="switch">
+                                <input type="checkbox" class="type-filter" data-type="映画">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                        <div class="filter-item">
+                            <label class="switch-label">TV</label>
+                            <div class="legend-color activity-tv"></div>
+                            <label class="switch">
+                                <input type="checkbox" class="type-filter" data-type="TV">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                        <div class="filter-item">
+                            <label class="switch-label">舞台</label>
+                            <div class="legend-color activity-stage"></div>
+                            <label class="switch">
+                                <input type="checkbox" class="type-filter" data-type="舞台">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                        
+                        <div class="filter-item">
+                            <label class="switch-label">その他</label>
+                            <div class="legend-color activity-other"></div>
+                            <label class="switch">
+                                <input type="checkbox" class="type-filter" data-type="その他">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                        <div class="filter-item">
+                            <label class="switch-label">声の出演</label>
+                            <div class="legend-color activity-voice"></div>
+                            <label class="switch">
+                                <input type="checkbox" class="type-filter" data-type="声の出演">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                        <div class="filter-item">
+                            <label class="switch-label">BOOK</label>
+                            <div class="legend-color activity-book"></div>
+                            <label class="switch">
+                                <input type="checkbox" class="type-filter" data-type="BOOK">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                    </div>
+                    <div id="filter-row-2">
+                        <div class="filter-item">
+                            <label class="switch-label">主演のみ</label>
+                            <label class="switch">
+                                <input type="checkbox" id="lead-role-filter">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                        <div class="filter-item">
+                            <label class="switch-label">Year View</label>
+                            <label class="switch">
+                                <input type="checkbox" id="year-view-filter" class="view-filter" data-view="year">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                        <div class="filter-item">
+                            <label class="switch-label">Age View</label>
+                            <label class="switch">
+                                <input type="checkbox" id="age-view-filter" class="view-filter" data-view="age">
+                                <span class="slider round"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="legend desktop-hidden">
+                <div class="legend-item">
+                    <div class="legend-color activity-movie"></div>
+                    <span>映画</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color activity-tv"></div>
+                    <span>TV</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color activity-stage"></div>
+                    <span>舞台</span>
+                </div>
+                
+                <div class="legend-item">
+                    <div class="legend-color activity-other"></div>
+                    <span>その他</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color activity-voice"></div>
+                    <span>声の出演</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color activity-book"></div>
+                    <span>BOOK</span>
+                </div>
+            </div>
+
+            <div class="contribution-graph" id="contribution-graph">
+                </div>
+            
+            <div class="contribution-graph" id="year-graph-container" style="display: none;">
+                </div>
+
+            <div class="contribution-graph" id="age-graph-container" style="display: none;">
+                </div>
+
+            <div id="works-detail-container" class="works-detail-container" style="display: none;">
+                <div class="detail-header"><h3>出演</h3><button class="close-detail">×</button></div>
+                <div class="detail-content"></div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
