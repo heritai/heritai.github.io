@@ -1,292 +1,165 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6C7BJGKMFT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6C7BJGKMFT');
+</script>
     <meta charset="UTF-8">
+    <script src="js/visibility.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="堺雅人の出演作品と、各動画配信サービスでの視聴方法を一覧で紹介。映画やドラマをどこでオンライン視聴できるか、詳細な情報をチェック！ / Explore Sakai Masato's works and where to watch them on streaming services. Find out where to watch his movies and dramas online.">
+    <meta name="keywords" content="堺雅人, 出演作品, 映画, テレビドラマ, 動画配信サービス, データベース, Sakai Masato, Film, Movie, TV, Shows, Series, Database">
     <title>Sakai Masato Database</title>
     <link rel="icon" href="favicon.png" type="image/png">
     <link rel="icon" href="favicon-32x32.png" sizes="32x32" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="../pic/apple-touch-icon.png">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="Navi/navi.css">
+    <script src="js/darkmode.js"></script>
+    <script src="Navi/navHighlight.js"></script>
+
+    
     <style>
-        :root {
-            --bg-color: #f6f4ef;
-            --border-color: #000000;
-            --text-color: #000000;
-        }
-
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --bg-color: #121212;
-                --border-color: #333333;
-                --text-color: #f9f9f9;
-            }
-        }
-
-        * {
+        html, body {
             margin: 0;
             padding: 0;
-            box-sizing: border-box;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
         }
-
+        
         body {
-            font-family: "ヒラギノ明朝 ProN", "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            min-height: 100vh;
-            padding: 0;
-            margin: 0;
-            transition: background-color 0.3s ease, color 0.3s ease;
+            display: flex;
+            flex-direction: row;
         }
-
-        .container {
-            width: 100vw;
+        
+        .sidebar {
+            width: calc(100% / 7); /* 占据1/7的宽度 */
             height: 100vh;
-            display: grid;
-            gap: 20px;
-            padding: 20px;
+            overflow-y: auto;
+            position: relative;
+            z-index: 10;
+            flex-shrink: 0;
             box-sizing: border-box;
         }
-
-        /* Desktop layout: 4 columns, 3 rows */
-        @media (min-width: 769px) {
-            .container {
-                grid-template-columns: repeat(4, 1fr);
-                grid-template-rows: repeat(3, 1fr);
-            }
-
-            .birthday-countdown {
-                grid-column: span 2;
-            }
-
-            .database {
-                grid-column: span 2;
-                grid-row: span 2;
-            }
-
-            .date-countdown {
-                grid-column: span 2;
-            }
-
-            .work1 {
-                grid-column: span 2;
-            }
-
-            .work2 {
-                grid-column: span 2;
-            }
+        
+        .notion-container {
+            width: calc(6 * 100% / 7); /* 占据6/7的宽度 */
+            height: 100vh;
+            position: relative;
+            z-index: 5;
+            box-sizing: border-box;
+            margin-left: auto; /* 添加这行使其靠右对齐 */
         }
-
-        /* Mobile layout: only show database */
-        @media (max-width: 768px) {
-            .container {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                height: 100vh;
-            }
-            
-            .grid-item:not(.database) {
-                display: none;
-            }
-            
-            .grid-item.database {
-                width: 80%;
-                max-width: 400px;
-            }
+        
+        .notion-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
         }
-
-        .grid-item {
-            background-color: var(--bg-color);
-            border: 4px solid var(--border-color);
-            border-radius: 20px;
-            padding: 30px;
+        
+        /* 确保主容器不会被其他样式覆盖 */
+        #main-container {
             display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            transition: all 0.3s ease;
-            min-height: 150px;
+            width: 100%;
+            height: 100vh;
+            overflow: hidden;
         }
-
-        .grid-item.hoverable:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-            cursor: pointer;
-        }
-
-        .disclaimer {
-            font-size: 1.1rem;
-            line-height: 1.6;
-            align-items: flex-start;
-            text-align: left;
-        }
-
-        .birthday-countdown .title {
-            font-size: 1.2rem;
-            margin-bottom: 10px;
-            font-weight: 300;
-        }
-
-        .birthday-countdown .days {
-            font-size: 3rem;
-            font-weight: bold;
-            color: var(--text-color);
-        }
-
-        .birthday-special {
-            font-size: 2.5rem !important;
-            font-weight: bold;
-            background: linear-gradient(45deg, #ff6b6b, #feca57, #48dbfb, #ff9ff3);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: rainbow 3s ease-in-out infinite;
-        }
-
-        @keyframes rainbow {
-            0%, 100% { filter: hue-rotate(0deg); }
-            50% { filter: hue-rotate(180deg); }
-        }
-
-        .database {
-            font-size: 4rem;
-            font-family: " ";
-            font-weight: bold;
-            letter-spacing: 2px;
-            text-align: left;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .database-text {
-            text-align: left;
-        }
-
-        .date-countdown {
-            font-size: 1.2rem;
-            font-weight: bold;
-        }
-
-        .date-countdown .label {
-            font-size: 1.2rem;
-            margin-bottom: 10px;
-            opacity: 0.8;
-        }
-
-        .date-countdown #dateCountdown {
-            font-size: 3rem;
-            font-weight: bold;
-        }
-
-        .work1, .work2 {
-            font-size: 1.8rem;
-            font-weight: 500;
-        }
-
-        @media (max-width: 768px) {
-            .grid-item {
-                padding: 20px;
-                min-height: 120px;
+        
+        @media screen and (max-width: 768px) {
+            body {
+                flex-direction: column;
             }
-
-            .birthday-countdown .days {
-                font-size: 2.5rem;
+            
+            .sidebar {
+                width: 100%;
+                height: auto;
+                min-height: 60px;
+                position: fixed;
+                top: 0;
+                left: 0;
+                background: var(--bg-color, #fff);
+                z-index: 100;
             }
-
-            .date-countdown #dateCountdown {
-                font-size: 2.5rem;
+            
+            .notion-container {
+                width: 100%;
+                height: 100vh;
+                margin-left: 0;
+                padding-top: 60px; /* 为固定定位的导航栏留出空间 */
             }
-
-            .database {
-                font-size: 2rem;
+            
+            .notion-container iframe {
+                height: 100%;
+                position: fixed;
+                top: 60px; /* 与导航栏高度相同 */
             }
-
-            .work1, .hwork2 {
-                font-size: 1.5rem;
+            
+            #main-container {
+                height: 100vh;
+                padding-top: 0;
             }
         }
     </style>
 </head>
+
 <body>
-    <div class="container">
-        <div class="grid-item database hoverable" onclick="window.location.href='works.html'">
-            <div class="database-text">
-                <div>SAKAI MASATO</div>
-                <div>DATABASE</div>
-            </div>
-        </div>
+    <div id="main-container">
+        <aside class="sidebar">
+            <!-- Navbar content will be loaded here -->
+        </aside>
 
-        <div class="grid-item birthday-countdown hoverable" onclick="window.open('https://sakai-masato.com/', '_blank')">
-            <div class="title" id="birthdayTitle">His Birthday</div>
-            <div class="days" id="birthdayDays"> </div>
-        </div>
-
-        <div class="grid-item date-countdown hoverable" onclick="window.open('https://www.youtube.com/watch?v=jbEc6AcxFWs', '_blank')">
-            <div class="label">平場の月 11月14日 (金) 公開</div>
-            <div id="dateCountdown"> </div>
-        </div>
-
-        <div class="grid-item work1 hoverable" onclick="window.open('https://www.tbs.co.jp/VIVANT_tbs/', '_blank')">
-            VIVANT in 2026
-        </div>
-
-        <div class="grid-item work2 hoverable" onclick="window.open('https://hirabanotsuki.jp/', '_blank')">
-            平場の月 in 2025
+        <div class="notion-container">
+            <iframe 
+                src="https://www.notion.so/site-25c230ad969a801488aae6964dfbfca8" 
+                frameborder="0" 
+                allowfullscreen
+                sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+                style="transform-origin: 0 0; transform: scale(1);">
+            </iframe>
         </div>
     </div>
-
+    
     <script>
-        function updateCountdowns() {
-            const today = new Date();
-            const currentYear = today.getFullYear();
-            
-            // Birthday countdown (October 14)
-            const birthdayTitle = document.getElementById('birthdayTitle');
-            const birthdayDays = document.getElementById('birthdayDays');
-            
-            // Check if today is the birthday (October 14th)
-            const todayMonth = today.getMonth();
-            const todayDate = today.getDate();
-            
-            if (todayMonth === 9 && todayDate === 14) {
-                // Today is October 14th - birthday!
-                birthdayTitle.textContent = '';
-                birthdayDays.textContent = '堺さん お誕生日おめでとうございます！';
-                birthdayDays.classList.add('birthday-special');
+        // 确保页面加载完成后正确应用布局
+        document.addEventListener('DOMContentLoaded', function() {
+            // 如果有必要，可以在这里添加额外的布局调整代码
+        });
+    </script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const iframe = document.querySelector('.notion-container iframe');
+        
+        function adjustIframeScale() {
+            if (window.innerWidth <= 768) {
+                // 移动端不进行缩放，使用原始尺寸
+                iframe.style.transform = 'none';
+                iframe.style.width = '100%';
+                iframe.style.height = '100%';
             } else {
-                // Calculate next birthday
-                let nextBirthday = new Date(currentYear, 9, 14); // Month is 0-indexed
-                if (today > nextBirthday) {
-                    nextBirthday = new Date(currentYear + 1, 9, 14);
-                }
-                const birthdayDiff = Math.ceil((nextBirthday - today) / (1000 * 60 * 60 * 24));
-                birthdayTitle.textContent = '堺さんの誕生日';
-                birthdayDays.textContent = `D-${birthdayDiff}`;
-                birthdayDays.classList.remove('birthday-special');
-            }
-            
-            // Date countdown (November 14, 2025)
-            const targetDate = new Date(2025, 10, 14); // Month is 0-indexed
-            const dateDiff = Math.ceil((targetDate - today) / (1000 * 60 * 60 * 24));
-            const dateCountdown = document.getElementById('dateCountdown');
-            
-            if (dateDiff === 0) {
-                dateCountdown.textContent = 'D-Day';
-            } else if (dateDiff > 0) {
-                dateCountdown.textContent = `D-${dateDiff}`;
-            } else {
-                const daysPast = Math.abs(dateDiff);
-                dateCountdown.textContent = `${daysPast} Days ago`;
+                // 桌面端保持原样
+                iframe.style.transform = 'scale(1)';
+                iframe.style.width = '100%';
+                iframe.style.height = '100%';
             }
         }
-        
-        // Update countdowns immediately and then every hour
-        updateCountdowns();
-        setInterval(updateCountdowns, 3600000); // Update every hour
-        
-        // Update every minute for more accuracy when close to dates
-        setInterval(updateCountdowns, 60000); // Update every minute
-    </script>
+
+        window.addEventListener('resize', adjustIframeScale);
+        adjustIframeScale(); 
+    });
+</script>
 </body>
+
 </html>
