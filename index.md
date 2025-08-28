@@ -18,11 +18,6 @@ current: home
 
 <br>
 
-## Projets
-
-- Conception d’un [Assistant multi-agents](https://github.com/heritai/llm-multi-agent-asstant) basé sur LLMs pour l’aide à la conformité réglementaire (LangGraph, RAG, Prompt Engineering)
-- Développement d’un [Outil d’audit](https://github.com/heritai/ml-cloud-audit) de conformité RGPD sur AWS pour pipelines IA/ML (SageMaker, Fairness et Explicabilité)
-- [Graph Neural Networks](https://github.com/heritai/graph-nn-malware-detection) pour detection de malware - (Large dataset, malware detection, Geometric PyTorch, deep learning )
 
 ## 🌐 Links
 
@@ -34,7 +29,7 @@ current: home
 * [![Book a Call](https://img.shields.io/badge/Book%20a%20call-2ECE53?logo=docsify&logoColor=fff)](https://calendly.com/ytaheris/30min)
 
 
-## Projets
+## Projects
 
 - Designing a [multi-agent Assistant](https://github.com/heritai/llm-multi-agent-asstant) based on LLMs to advise on legal compliance (LangGraph, RAG, Prompt Engineering)
 - Deveped a compliance [audit tool](https://github.com/heritai/ml-cloud-audit) on AWS for  AI/ML pipelines (SageMaker, Fairness et Explicabilité)
