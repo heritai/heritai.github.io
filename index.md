@@ -132,6 +132,7 @@ current: home
 - **Médaille d’argent** – 22e Olympiade étudiante en statistique, Iran (2017)
 - **2e place** – Concours national d’entrée en Master, Iran, (2017)
 - **1re place (équipe) & 3e place (solo)** – Compétition nationale en statistique, Iran (2016 et 2017)
+
 <br>
 
 ## 💡 Publications
