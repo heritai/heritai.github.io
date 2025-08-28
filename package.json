@@ -1,0 +1,104 @@
+{
+  "name": "notion-jam",
+  "nameFull": "NotionJAM",
+  "version": "0.0.13",
+  "description": "A notion-jam cli / action",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victornpb/notion-jam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/victornpb/notion-jam/issues"
+  },
+  "homepage": "https://github.com/victornpb/notion-jam",
+  "author": "victornpb",
+  "action": "dist/action.mjs",
+  "main": "dist/cli.mjs",
+  "bin": "dist/cli.mjs",
+  "scripts": {
+    "start": "node dist/cli.mjs",
+    "build": "rollup -c",
+    "watch": "rollup -c -w",
+    "prebuild": "rimraf dist",
+    "test": "npm run lint",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix",
+    "version": "npm i --package-lock-only && npm run build && git add --all",
+    "release": "np --any-branch"
+  },
+  "files": [
+    "dist",
+    "action.yml",
+    ".env.example"
+  ],
+  "keywords": [
+    "notion",
+    "jam",
+    "export",
+    "markdown",
+    "static",
+    "website",
+    "gh-pages"
+  ],
+  "sideEffects": false,
+  "type": "module",
+  "dependencies": {
+    "@actions/core": "^1.8.2",
+    "@actions/github": "^5.0.3",
+    "@notionhq/client": "^1.0.4",
+    "default-args": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "js-yaml": "^4.1.0",
+    "notion-2-markdown": "^2.4.0",
+    "remark-frontmatter": "^4.0.1",
+    "remark-gfm": "^3.0.1",
+    "remark-parse": "^10.0.1",
+    "remark-parse-yaml": "^0.0.3",
+    "remark-stringify": "^10.0.2",
+    "remark-toc": "^8.0.1",
+    "remark-twemoji": "^0.1.1",
+    "unified": "^10.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/plugin-proposal-private-methods": "^7.16.11",
+    "@babel/plugin-syntax-optional-chaining": "^7.8.3",
+    "@babel/plugin-transform-object-assign": "^7.16.7",
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.16.11",
+    "@rollup/plugin-json": "^4.1.0",
+    "asciitable.js": "^1.0.3",
+    "eslint": "^8.13.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^12.4.0",
+    "np": "^7.6.1",
+    "postcss": "^8.4.12",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.70.2",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-banner2": "^1.2.2",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-shebang-bin": "^0.0.2",
+    "rollup-plugin-terser": "^7.0.2",
+    "tiny-dedent": "^1.0.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.js": [
+      "npm run lint:fix",
+      "git add"
+    ]
+  }
+}
