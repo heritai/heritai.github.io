@@ -20,14 +20,8 @@ current: home
 
 
 ## 🌐 Links
-
-* [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/heritai)
-* [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yousef-taheri/)
- 
-* [![Google Scholar](https://img.shields.io/badge/GoogleScholar-white?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)
-* [![X](https://img.shields.io/badge/@HeritaMind-blue?logo=x)](https://x.com/HeritaMind)
-* [![Book a Call](https://img.shields.io/badge/Book%20a%20call-2ECE53?logo=docsify&logoColor=fff)](https://calendly.com/ytaheris/30min)
-
+| [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/heritai) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yousef-taheri/) [![Book a Call](https://img.shields.io/badge/Book%20a%20call-2ECE53?logo=docsify&logoColor=fff)](https://calendly.com/ytaheris/30min)  [![X](https://img.shields.io/badge/@HeritaMind-blue?logo=x)](https://x.com/HeritaMind) [![Google Scholar](https://img.shields.io/badge/GoogleScholar-white?logo=googlescholar)](http://scholar.google.com/citations?user=IN72HckAAAAJ)| 
+| :---: |
 
 ## Projects
 
