@@ -31,20 +31,20 @@ current: home
 
 ## Projects
 
-| ![Your Photo](/assets/images/graphdiagram.png) |
-| :---: |
-| A multi-agent Assistant based on LLMs to advise on legal compliance (LangGraph, RAG, Prompt Engineering) [Github](https://github.com/heritai/llm-multi-agent-asstant)|
+| ![Your Photo](/assets/images/graphdiagram.png) | A multi-agent Assistant based on LLMs to advise on legal compliance (LangGraph, RAG, Prompt Engineering) -> [Github](https://github.com/heritai/llm-multi-agent-asstant)|
+| :---: | --- |
 
 
 
-| ![Your Photo](/assets/images/audit-dashboard.gif) |
- |:---: |
-| A compliance audit tool on AWS for  AI/ML pipelines (SageMaker, Fairness et Explicabilité)  [Github](https://github.com/heritai/ml-cloud-audit)|
+
+| ![Your Photo](/assets/images/audit-dashboard.gif) | A compliance audit tool on AWS for  AI/ML pipelines (SageMaker, Fairness et Explicabilité) -> [Github](https://github.com/heritai/ml-cloud-audit)|
+|:---: | --- |
 
 
-| ![Your Photo](/assets/images/graph.png) |
-|:---:|
-| Graph Neural Networks for malware detection- (Large dataset, malware detection, Geometric PyTorch, deep learning ) [Github](https://github.com/heritai/graph-nn-malware-detection) |
+
+| ![Your Photo](/assets/images/graph.png) | Graph Neural Networks for malware detection- (Large dataset, malware detection, Geometric PyTorch, deep learning ) -> [Github](https://github.com/heritai/graph-nn-malware-detection)
+|:---:| ---|
+
 
 ## 🛠️ Tech Stack
 
