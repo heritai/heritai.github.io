@@ -12,11 +12,10 @@ current: home
 
 | ![Your Photo](/assets/images/image_3.png) |
 | :---: |
-|     |
+| _Developpeur IA/ML et Data Scientiste avec un doctorat en IA responsable, je transforme des idées complexes en solutions concrètes et responsables. Porté par la rigueur, la curiosité et l’impact, je m’engage dans des projets alliant science des données et innovation._    |
 
 
-## About Me
->Developpeur IA/ML et Data Scientiste avec un doctorat en IA responsable, je transforme des idées complexes en solutions concrètes et responsables. Porté par la rigueur, la curiosité et l’impact, je m’engage dans des projets alliant science des données et innovation.
+
 
 <br>
 
