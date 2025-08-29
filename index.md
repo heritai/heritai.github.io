@@ -9,9 +9,10 @@ current: home
 ---
 
 <!--  Insert Your Photo Here -->
-![Your Photo](/assets/images/image_3.png) <!-- Replace with your image path -->
 
-<br>
+| ![Your Photo](/assets/images/image_3.png) |
+| :---: |
+
 
 ## About Me
 >Developpeur IA/ML et Data Scientiste avec un doctorat en IA responsable, je transforme des idées complexes en solutions concrètes et responsables. Porté par la rigueur, la curiosité et l’impact, je m’engage dans des projets alliant science des données et innovation.
