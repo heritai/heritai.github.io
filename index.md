@@ -9,10 +9,10 @@ current: home
 ---
 
 <!--  Insert Your Photo Here -->
-|  |
-| :---: |
-| ![Your Photo](/assets/images/image_3.png) |
 
+| ![Your Photo](/assets/images/image_3.png) |
+| :---: |
+|     |
 
 
 ## About Me
