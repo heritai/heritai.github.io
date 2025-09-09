@@ -18,7 +18,7 @@ current: home
 
 ## Projects
 
-| ![Your Photo](/assets/images/graphdiagram.png) |
+| ![Your Photo](/assets/images/legal-adviser.jpeg) |
 | :---: |
 | A multi-agent Assistant based on LLMs to advise on legal compliance (LangGraph, RAG, Prompt Engineering) -> [Github](https://github.com/heritai/llm-multi-agent-asstant)|
 
