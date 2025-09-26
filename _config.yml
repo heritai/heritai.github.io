@@ -23,6 +23,7 @@ social:
 markdown: kramdown
 highlighter: rouge
 theme: minima
+timezone: UTC
 plugins:
   - jekyll-feed
   - jekyll-sitemap
