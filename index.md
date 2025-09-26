@@ -7,11 +7,9 @@ title: Home
     <div class="hero-content">
         <img src="{{ '/assets/images/image_3.png' | relative_url }}" alt="Yousef Taheri" class="hero-avatar">
         <h1 class="hero-title">Yousef Taheri</h1>
-        <p class="hero-subtitle">AI/ML Researcher & Developer</p>
+        <p class="hero-subtitle">Machine Learning Engineer & AI Researcher</p>
         <p class="hero-description">
-            PhD in Responsible AI with expertise in ethical machine learning, compliance automation, 
-            and multi-agent systems. Transforming complex ideas into responsible, innovative solutions 
-            that bridge the gap between AI research and real-world applications.
+            I explore the intersection of research and engineering in artificial intelligence. With training in statistics, algorithms, and machine learning, I design systems that are rigorous, scalable, and effective. My focus is on taking ideas from research to implementation — turning abstract concepts into working prototypes and real-world applications.
         </p>
         <div class="hero-buttons">
             <a href="{{ '/about/' | relative_url }}" class="btn btn-primary">About Me</a>

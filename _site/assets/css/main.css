@@ -276,7 +276,7 @@ body {
 /* Projects Grid */
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: var(--spacing-lg);
     margin-top: var(--spacing-xl);
 }
@@ -348,6 +348,8 @@ body {
 .project-links {
     display: flex;
     gap: var(--spacing-sm);
+    flex-wrap: wrap;
+    margin-top: var(--spacing-md);
 }
 
 .project-link {
@@ -355,10 +357,15 @@ body {
     text-decoration: none;
     font-weight: 600;
     transition: var(--transition-fast);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border: 1px solid var(--accent-primary);
+    border-radius: var(--radius-sm);
+    font-size: 0.9rem;
 }
 
 .project-link:hover {
     color: var(--text-primary);
+    background: var(--accent-primary);
 }
 
 /* About Section */

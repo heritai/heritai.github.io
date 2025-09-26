@@ -6,7 +6,7 @@ title: About
 <section class="hero">
     <div class="hero-content">
         <h1 class="hero-title">About Me</h1>
-        <p class="hero-subtitle">Passionate about Responsible AI and Ethical Technology</p>
+        <p class="hero-subtitle">Machine Learning Engineer & AI Researcher</p>
     </div>
 </section>
 
